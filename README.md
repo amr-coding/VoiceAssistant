@@ -5,7 +5,7 @@ Phantom can create backend files like .php files by just saying the file name yo
 It can play any song by saying play [song name] and it will play it on youtube.</br>
 It can google something by just saying google [anything].</br>
 It can grab information about anything by saying: About [anything].</br>
-those are the main features phantom do 😃</br>
+those are the main features Phantom can do 😃</br>
 ----------------------------</br>
 Q. How to use it?
 A: 
